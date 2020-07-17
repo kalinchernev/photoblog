@@ -31,7 +31,7 @@
     "gatsby-transformer-sharp": "2.2.3",
     "gatsby-transformer-yaml": "2.2.3",
     "google-map-react": "1.1.4",
-    "lodash": "4.17.14",
+    "lodash": "4.17.19",
     "lodash.clonedeep": "4.5.0",
     "modern-normalize": "0.5.0",
     "netlify-cms": "2.3.3",
